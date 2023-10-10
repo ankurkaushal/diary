@@ -9,19 +9,10 @@ const path = require('path');
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
 
-const manifestPath = path.resolve(
-  __dirname,
-  'public',
-  'assets',
-  'manifest.json'
-);
-
-const manifest = isDev
-  ? {
-      'main.js': '/assets/main.js',
-      'main.css': '/assets/main.css',
-    }
-  : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
+const manifest = {
+  'main.js': '/assets/main.js',
+  'main.css': '/assets/main.css',
+};
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
@@ -39,7 +30,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
-  eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
+  eleventyConfig.setBrowserSyncConfig({ files: [manifest] });
 
   eleventyConfig.addShortcode('bundledcss', function () {
     return manifest['main.css']
