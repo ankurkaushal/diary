@@ -5,7 +5,7 @@ const { WebpackManifestPlugin } = require('webpack-manifest-plugin');
 
 const isDev = process.env.ELEVENTY_ENV === 'development';
 
-const baseFilename = isDev ? 'main' : 'main.[contenthash]';
+const baseFilename = 'main';
 
 module.exports = {
   entry: [
