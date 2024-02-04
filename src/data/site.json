@@ -1,6 +1,6 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "Ankur's Blog",
+  "description": "",
   "url": "https://eleventyduo.netlify.app",
   "author": {
     "name": "Author Name",
@@ -20,23 +20,7 @@
       "external": false
     }
   ],
-  "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
-    }
-  ],
+  "socialLinks": [],
   "footerLinks": [
     {
       "text": "RSS",
