@@ -5,7 +5,7 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const htmlmin = require('html-minifier')
 const fs = require('fs');
 const path = require('path');
-
+const markdownIt = require("markdown-it");
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
 
@@ -18,6 +18,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
+	let options = {
+		typographer: true,
+	};
+	eleventyConfig.setLibrary("md", markdownIt(options));
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
