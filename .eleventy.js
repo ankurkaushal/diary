@@ -19,6 +19,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
 	let options = {
+    html: true,
 		typographer: true,
 	};
 	eleventyConfig.setLibrary("md", markdownIt(options));
