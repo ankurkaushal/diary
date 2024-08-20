@@ -24,4 +24,4 @@ Before I wrap this up, here are a few highlights from the class that I won't for
 
 There are probably more highlights—so if anyone from the class is reading this, feel free to remind me, and I'll add them to the list! 😄
 
-In closing, I just want to say what a privilege it was to get to know a lot of you in this class. Hearing so many personal stories filled me with warmth, and I found myself opening up more than I usually do. Being able to be vulnerable without judgment made me really appreciate everyone. With that, I'm looking forward to Level 3 next month with a few familiar faces from this class and can’t wait to share more about it!
+In closing, I just want to say what a privilege it was to get to know a lot of the people in this class. Hearing so many personal stories filled me with warmth, and I found myself opening up more than I usually do. Being able to be vulnerable without judgment made me really appreciate everyone. With that, I'm looking forward to Level 3 next month with a few familiar faces from this class and can’t wait to share more about it!
