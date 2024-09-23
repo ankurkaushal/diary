@@ -17,4 +17,4 @@ All in all, it turned out pretty well, and I’m proud of it.
 
 Another lesson we learned was about starting low and ending on a high. In improv, we sometimes tend to start with big offers, which can be hard to sustain. One thing Kerry (our teacher) pointed out was the value of starting small and gradually building up. That sparked an idea for me—start with something grounded in the real world and then twist it into something unexpected. It could be just the thing to surprise the audience.
 
-Here’s to more growth, more fun, and more 'yes, and'ing!
+Here’s to more learnings, more fun, and more 'yes, and'ing!
