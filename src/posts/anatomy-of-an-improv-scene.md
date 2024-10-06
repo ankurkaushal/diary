@@ -7,6 +7,8 @@ Yesterday was my last class for Improv 3, as I'll be missing the final two class
 
 At this point, this blog is kind of becoming a public notebook of what I'm learning, which I guess is a good thing. Also, it allows me to be vulnerable, which, if I'm being honest, can be a bit scary.
 
+Now onto some stufff we learned yesterday.
+
 One of the very first things we discussed in class was the idea of avoiding conflict. Why? Because sometimes conflict leads nowhere (which is a great life lesson, now that I think about it) and doesn't advance the scene. Here's an example:
 
 > "I got a new dog."
