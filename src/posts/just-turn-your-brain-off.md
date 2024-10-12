@@ -14,7 +14,7 @@ Here are a couple of responses I took away:
 - [No Gap Dialog](https://kevinmullaney.com/2014/03/14/no-gap-dialog)
 - The Second Circle of Attention — [Patsy Rodenburg](https://en.wikipedia.org/wiki/Patsy_Rodenburg) calls this outward focus the "second circle" where you tune in to your partner and the scene instead of getting stuck in your head.
 
-But what really resonated with me was the one thing echoing in the responses: your physicality is one of the many things that brings "youness" to your performances. What’s incredible about that is no one can do what you do, just like no one can do what I do. And honestly, no one wants to see twenty people all doing the exact same thing. It’s that individual flair that makes us stand out.
+But what really resonated with me was the one thing echoed in the responses: your physicality is one of the many things that brings "youness" to your performances. What’s incredible about that is no one can do what you do, just like no one can do what I do. And honestly, no one wants to see twenty people all doing the exact same thing. It’s that individual flair that makes us stand out.
 
 At the Student Improv Jam this week, we played a game called [Half Life](https://www.hooplaimpro.com/half-life.html). The suggestion we got was to recreate Pinocchio with about eight people. I’ve never seen the movie, so I didn’t know how to jump in. It struck me: why not slightly copy someone’s actions? Kara, one of the people on stage, was playing an angel, so I decided to mimic her physicality but became a bird instead. Surprisingly, it worked! Kara even told me my performance was perfect—it felt great to hear that validation.
 
