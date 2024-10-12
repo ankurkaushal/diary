@@ -1,6 +1,6 @@
 ---
-Title: Just turn your brain off!
-Date: "2024-10-11"
+title: Just turn your brain off!
+date: "2024-10-11"
 ---
 
 As human beings, we naturally compare ourselves to others, even though it's often said that "comparison is the thief of joy." I catch myself doing it too, especially when I'm on stage with other improvisers. I admire how they use their bodies and emotions so freely. For me, physicality in performance is tough—I know I can't fully mimic the movements of others because of my physical disability. But I feel that way at work too, where it's easy to measure myself against others.

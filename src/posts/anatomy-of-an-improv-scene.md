@@ -1,6 +1,6 @@
 ---
-Title: Anatomy of an Improv Scene & Other Stuff
-Date: "2024-10-06"
+title: Anatomy of an Improv Scene & Other Stuff
+date: "2024-10-06"
 ---
 
 Yesterday was my last class for Improv 3, as I'll be missing the final two classes due to my upcoming visit to India for Diwali (and my birthday!). I'm really going to miss it, but I also need a break. I don't think I've taken much time off this year, so I really need to be mindful about prioritizing some downtime. Maybe that should be a New Year's resolution? I'm also torn between taking Improv 4 or repeating Improv 3, since I'll miss the first two classes for the next term. I'm leaning toward repeating because I feel like I still have a lot to learn when it comes to scene work, but at the same time, I'll really miss working with my classmates. :(
