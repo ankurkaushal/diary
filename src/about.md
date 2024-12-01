@@ -14,4 +14,4 @@ When I’m not behind the computer, I’m usually chasing curiosity—whether it
 
 This blog is my little corner of the internet, where I share reflections on work and life.
 
-Want to see what I’m up to? Check out my Instagram for snippets of my life.
+Want to see what I’m up to? Check out my [Instagram](https://www.instagram.com/ankurkaushal_/) for snippets of my life.
