@@ -47,4 +47,4 @@ This class really drove home the idea that keeping things simple isn't just a ni
 
 Here's to more simplicity and light bulb moments! 💡
 
-Also, shoutout to my partners Anthony & Sofia for these scenes!
+Also, shoutout to my partners Anthony & Sofia for these scenes & Josh Murray for teaching us the value of simplicity!
