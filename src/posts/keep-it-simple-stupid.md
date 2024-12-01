@@ -12,16 +12,17 @@ It turns out this philosophy doesn't just apply to engineering or personal growt
 Here are two scenes I worked on in class that really reinforced the importance of simplicity:
 
 **First Suggestion: Groundhog Day**
+
 This scene started with me pretending to be a groundhog, which I feel set the tone right away.
 
-Partner: Hey groundhog, what's the temperature going to be like tomorrow?
-Me: It's going to be really hot.
-Partner: What about the day after tomorrow?
-Me: It's going to be really, really hot.
-Partner: What about after two days?
-Me: It's going to be scorching hot.
-Partner: Is there any point in living on this planet anymore?
-Me: I don't think so.
+> Partner: Hey groundhog, what's the temperature going to be like tomorrow?
+> Me: It's going to be really hot.
+> Partner: What about the day after tomorrow?
+> Me: It's going to be really, really hot.
+> Partner: What about after two days?
+> Me: It's going to be scorching hot.
+> Partner: Is there any point in living on this planet anymore?
+> Me: I don't think so.
 
 And scene!
 
@@ -29,12 +30,12 @@ Notice how with every question, the temperature increased? By keeping the struct
 
 **Second Suggestion: Socks**
 
-Partner: Did you steal my socks?
-Me: Yes.
-Partner: Did you also steal my jacket?
-Me: Yes.
-Partner: Did you also steal my wife?
-Me: Yes.
+> Partner: Did you steal my socks?
+> Me: Yes.
+> Partner: Did you also steal my jacket?
+> Me: Yes.
+> Partner: Did you also steal my wife?
+> Me: Yes.
 
 And that's it!
 
