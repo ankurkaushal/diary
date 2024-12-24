@@ -1,5 +1,5 @@
 ---
-title: "2024: What an year!"
+title: "2024: What a year!"
 date: "2024-12-23"
 ---
 
