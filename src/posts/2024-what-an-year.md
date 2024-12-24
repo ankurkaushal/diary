@@ -5,7 +5,7 @@ date: "2024-12-23"
 
 I wanted to come up with a more clickbait-y (or interesting?) title for this blog post but unfortunately couldn't. I don't think I am creative enough on that front.
 
-2024 has been one heck of a year for me. It started off slow, but around April, things really picked up and threw some unexpected surprises my way. From earning my first career promotion to joining improv, getting kicked out by my landlord (only to move into a bigger place), getting a shocking hearing loss diagnosis in one of my ears, and even performing in my first show — I experienced it all.
+2024 has been one heck of a year for me. It started off slow, but around April, things really picked up and threw some unexpected surprises my way. From earning my first career promotion to joining improv, getting kicked out by my landlord (only to move into a bigger place), visiting family back home after 5 years, getting a shocking hearing loss diagnosis in one of my ears, and even performing in my first show — I experienced it all.
 
 My first promotion was, without a doubt, the highlight of 2024. It caught me completely off guard, even though I’d been working tirelessly up to that point. It all began in the last quarter of 2023 during a regular one-on-one with my manager. He said something along the lines of, 'Ankur, I want you to take over my daily responsibilities on the team so I can focus on Architecture for the org.' Just like that, I was thrown into the deep end.
 
