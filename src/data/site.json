@@ -1,11 +1,10 @@
 {
   "name": "Ankur's Blog",
   "description": "",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://www.ankurkaushal.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Ankur Kaushal",
+    "email": "ankurkaushal@outlook.com"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -28,5 +27,6 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": true,
+  "disqusShortname": "ankurkaushal"
 }
