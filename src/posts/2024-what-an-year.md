@@ -1,6 +1,6 @@
 ---
 title: "2024: What an year!"
-date: "2024-11-30"
+date: "2024-12-23"
 ---
 
 I wanted to come up with a more clickbait-y (or interesting?) title for this blog post but unfortunately couldn't. I don't think I am creative enough on that front.
