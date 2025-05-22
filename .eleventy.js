@@ -101,6 +101,16 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
+  eleventyConfig.addCollection("all", function(collectionApi) {
+    return collectionApi.getAll().filter(function(item) {
+      return !item.data.draft || !isProd;
+    });
+  });
+
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+      return collectionApi.getFilteredByGlob("src/posts/*.md");
+  });
+
   eleventyConfig.addFilter('pageTags', (tags) => {
     const generalTags = ['all', 'nav', 'post', 'posts'];
 
